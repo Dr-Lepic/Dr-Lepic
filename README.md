@@ -1,4 +1,4 @@
-# Hi there, I'm Dr-Lepic 👋
+# Hi there, I'm Mohammod Mahbub Ur Rahman 👋
 
 ### 👨‍💻 About Me
 3rd-year Software Engineering student & **DevSprint 2026 Champion** specializing in full-stack architecture, distributed microservices, real-time engines, and AI integrations.
