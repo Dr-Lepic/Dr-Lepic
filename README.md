@@ -2,7 +2,7 @@
 
 3rd-year Software Engineering student & **DevSprint 2026 Champion** specializing in full-stack architecture, distributed microservices, real-time engines, and AI integrations.
 
-- 🔭 **Currently Focused On:** Computer Vision, Solving real world problems & building CV/AI systems
+- 🔭 **Currently Focused On:** Computer Vision, Solving real world problems & building AI/CV pipelines
 - 💬 **Let's talk about:** Distributed systems, AI Agents, CRDTs & Computer Vision
 - 📫 **Reach me:** [mahbubrahman@iut-dhaka.edu](mailto:mahbubrahman@iut-dhaka.edu)
 
