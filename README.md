@@ -7,7 +7,7 @@
 - 📫 **Reach me:** [mahbubrahman@iut-dhaka.edu](mailto:mahbubrahman@iut-dhaka.edu)
 
 
----
+<!-- ---
 
 ### 🛠️ Tech Stack & Skills
 
@@ -20,4 +20,4 @@
 | **🛠️ Tools & Infrastructure** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Linux/Bash](https://img.shields.io/badge/Linux%2FBash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) |
 
 
-
+ -->
