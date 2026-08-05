@@ -6,7 +6,7 @@
 - 🔭 **Focus:** Building resilient event-driven systems, CRDT multiplayer engines & AI/CV pipelines
 - 💬 **Ask me about:** Distributed systems, WebSockets, BullMQ, Redis & Computer Vision
 - 📫 **Reach me:** [mahbubrahman@iut-dhaka.edu](mailto:mahbubrahman@iut-dhaka.edu)
-- 👁️ **Profile Views:** ![Views](https://komarev.com/ghpvc/?username=Dr-Lepic&style=flat-square&color=blueviolet)
+
 
 ---
 
