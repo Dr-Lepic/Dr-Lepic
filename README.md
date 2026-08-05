@@ -6,6 +6,7 @@
 - 🔭 **Focus:** Building resilient event-driven systems, CRDT multiplayer engines & AI/CV pipelines
 - 💬 **Ask me about:** Distributed systems, WebSockets, BullMQ, Redis & Computer Vision
 - 📫 **Reach me:** [mahbubrahman@iut-dhaka.edu](mailto:mahbubrahman@iut-dhaka.edu)
+- 👁️ **Profile Views:** ![Views](https://komarev.com/ghpvc/?username=Dr-Lepic&style=flat-square&color=blueviolet)
 
 ---
 
@@ -21,8 +22,11 @@
 
 ---
 
-### 📊 GitHub Stats
+
+### 📈 GitHub Activity & Streak
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dr-Lepic&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Lepic&layout=compact&theme=tokyonight" alt="Top Languages" width="350" />
+  <img src="https://streak-stats.demolab.com/?user=Dr-Lepic&theme=tokyonight" alt="GitHub Streak" width="450" />
+</p>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dr-Lepic&theme=tokyo-night" alt="Activity Graph" width="100%" />
 </p>
