@@ -1,14 +1,11 @@
 # Hi there, I'm Dr-Lepic 👋
 
 ### 👨‍💻 About Me
-A 3rd-year Software Engineering student specializing in full-stack architecture, distributed microservices, real-time engines, and AI integrations.
+3rd-year Software Engineering student & **DevSprint 2026 Champion** specializing in full-stack architecture, distributed microservices, real-time engines, and AI integrations.
 
-Proven champion developer (**DevSprint 2026 Winner**) experienced in building resilient event-driven architectures (BullMQ, Redis, WebSockets), multiplayer CRDT engines (Liveblocks, Yjs), computer vision pipelines (YOLO, OpenCV), and containerized cloud systems (Next.js, FastAPI, Docker, PostgreSQL).
-
-- 🔭 I’m currently working on building scalable applications & interactive web experiences.
-- 🌱 I’m currently exploring advanced real-time systems & AI models.
-- 💬 Ask me about full-stack development, WebSockets, and computer vision.
-- 📫 How to reach me: [mbmahbub007@gmail.com](mailto:mbmahbub007@gmail.com)
+- 🔭 **Focus:** Building resilient event-driven systems, CRDT multiplayer engines & AI/CV pipelines
+- 💬 **Ask me about:** Distributed systems, WebSockets, BullMQ, Redis & Computer Vision
+- 📫 **Reach me:** [mbmahbub007@gmail.com](mailto:mbmahbub007@gmail.com)
 
 ---
 
