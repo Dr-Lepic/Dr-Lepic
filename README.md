@@ -1,6 +1,5 @@
 # Hi there, I'm Mohammod Mahbub Ur Rahman 👋
 
-### 👨‍💻 About Me
 3rd-year Software Engineering student & **DevSprint 2026 Champion** specializing in full-stack architecture, distributed microservices, real-time engines, and AI integrations.
 
 - 🔭 **Focus:** Building resilient event-driven systems, CRDT multiplayer engines & AI/CV pipelines
