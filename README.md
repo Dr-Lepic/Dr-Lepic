@@ -22,11 +22,3 @@
 
 ---
 
-
-### 📈 GitHub Activity & Streak
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Dr-Lepic&theme=tokyonight" alt="GitHub Streak" width="450" />
-</p>
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dr-Lepic&theme=tokyo-night" alt="Activity Graph" width="100%" />
-</p>
