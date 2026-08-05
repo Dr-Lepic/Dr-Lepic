@@ -20,5 +20,5 @@
 | **👁️ AI & Computer Vision** | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![LM Studio](https://img.shields.io/badge/LM_Studio-6B46C1?style=for-the-badge) ![YOLO](https://img.shields.io/badge/YOLO_(Object_Detection)-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black) |
 | **🛠️ Tools & Infrastructure** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Linux/Bash](https://img.shields.io/badge/Linux%2FBash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) |
 
----
+
 
