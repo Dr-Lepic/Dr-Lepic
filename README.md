@@ -5,7 +5,7 @@
 
 - 🔭 **Focus:** Building resilient event-driven systems, CRDT multiplayer engines & AI/CV pipelines
 - 💬 **Ask me about:** Distributed systems, WebSockets, BullMQ, Redis & Computer Vision
-- 📫 **Reach me:** [mbmahbub007@gmail.com](mailto:mbmahbub007@gmail.com)
+- 📫 **Reach me:** [mahbubrahman@iut-dhaka.edu](mailto:mahbubrahman@iut-dhaka.edu)
 
 ---
 
